@@ -1,0 +1,151 @@
+.facdetails{
+  //width: 00px;
+  height: 300px;
+  margin-right: 10px;
+  span {
+    //color: gray;
+  }
+  body-style {
+    padding: '0px';
+  }
+  img{
+    float: left;
+  }
+  span{
+    float: left;
+  }
+}
+//.home-card{
+//  background-color: #00bcd4;
+//  height:120px;
+//  width: 100%;
+//  margin: 0 auto;
+//  line-height: 80px;
+//  font-size: 2rem;
+//  color:white;
+//  border-radius: 10px;
+//  font-weight: 600;
+//  text-align: center
+//}
+.home-card1{
+  background-color: #00bcd4;
+  height:100px;
+  width: 100%;
+  border-radius: 10px;
+}
+.home-card2{
+//background-color: red;
+  height: 70%;
+  width: 100%;
+  line-height: 70px;
+  text-align: center;
+  font-size: 2rem;
+  color:white;
+  font-weight: 600;
+
+}
+.home-card3{
+  //background-color: green;
+  height: 30%;
+  width: 100%;
+  line-height: 30px;
+  text-align: center;
+  color:white;
+}
+.text-success {
+  color: #1c84c6;
+}
+
+.text-info {
+  color: #23c6c8;
+}
+
+.text-warning {
+  color: #f8ac59;
+}
+
+.text-danger {
+  color: #ed5565;
+}
+
+.text-muted {
+  color: #888888;
+}
+
+.list-group-striped > .list-group-item {
+  border-left: 0;
+  border-right: 0;
+  border-radius: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.list-group {
+  padding-left: 0px;
+  list-style: none;
+}
+
+.list-group-item {
+  border-bottom: 1px solid #e7eaec;
+  border-top: 1px solid #e7eaec;
+  margin-bottom: -1px;
+  padding: 11px 0px;
+  font-size: 13px;
+}
+.list-group-striped > .list-group-item {
+  border-left: 0;
+  border-right: 0;
+  border-radius: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+.list-group-striped > .list-group-item {
+  border-left: 0;
+  border-right: 0;
+  border-radius: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.list-group-item {
+  border-bottom: 1px solid #e7eaec;
+  border-top: 1px solid #e7eaec;
+  margin-bottom: -1px;
+  padding: 11px 0px;
+  font-size: 13px;
+}
+.pull-right {
+  float: right !important;
+}
+/* image */
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-lg {
+  width: 120px;
+  height: 120px;
+}
+
+.avatar-upload-preview {
+  position: absolute;
+  top: 50%;
+  transform: translate(50%, -50%);
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  box-shadow: 0 0 4px #ccc;
+  overflow: hidden;
+}
+
+/* 拖拽列样式 */
+.sortable-ghost{
+  opacity: .8;
+  color: #fff!important;
+  background: #42b983!important;
+}
+
+.top-right-btn {
+  position: relative;
+  float: right;
+}
