@@ -1,5 +1,5 @@
 ## 仪器设备管理系统-前端
-- [ysms-vue（新版前端）](https://gitee.com/Jesse4023/ysms-vue-new)
+- [ysms-vue（新版前端）](https://gitee.com/Jesse4023/ysms-vue)
 - 仪器设备管理系统前端项目基于vue、element-ui构建开发，实现[ysms（后台在这里）](https://gitee.com/Jesse4023/ysms)后台管理前端功能
 - 前后端分离，通过token进行数据交互，可独立部署
 - 演示地址：[localhost:8001](localhost:8001) (账号密码：admin/admin)
